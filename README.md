@@ -10,6 +10,8 @@ To run the code use following command :
 ```python
 python iris_diameter_windowed_plot.py --video sample.mp4 --window 3.0 --display
 ```
+Make sure the video is in the same folder as the code and name the code "iris_diameter_windowed_plot.py"for above command to work.And also make sure that you are in same folder as code in terminal before running the command. To do so use -cd commmand.
+
 
 The name of the video should be replace with Sample.mp4 and the duration at whick the reading is taken b echanged by changing the  3.0 to other values.
 
